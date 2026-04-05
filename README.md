@@ -13,7 +13,7 @@ To function correctly, this pack requires the same dependencies as the originals
 In your Resource Packs menu, make sure the order looks like this (from top to bottom):
 1. This Compatibility Pack (Top priority)
 2. Fresh Animations: Player Extension
-3. Just Expressions (Optional)
+3. Just Expressions (Optional, for textures)
 
 ## Credits
 - Frash Animations by [FrashLX](https://modrinth.com/user/FreshLX)
